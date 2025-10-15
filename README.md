@@ -9,5 +9,7 @@ We have run preliminary data analysis using ResNet34, 50, and DeepFace models on
 To collect data, we are collaborating with multiple ABA (Applied Behavior Analysis) centers and other ASD-related healthcare institutions in the New Orleans and greater Louisiana area to set up and gather a diverse speech, behavior, background information, and medical records dataset for children with ASD. To Collect multimodal behavioral data, in the form of eye-tracking, language samples, and video captured movements, along with environmental factors (lighting condition, background sound, time of the day, etc.) by installing vision and sensor systems at ABA centers/clinics within the metro area. we plan to use equipment like multiple Basler cameras, Depth camera, omnidirectional microphone and Cardioid mic to pick up sound regardless of its direction, air monitor, smart watch or wearable motion sensors for electrodermal activity (EDA) measurement for data collection.
 
 References:
+
 [1] Alamgir FM, Saif SM, Hossain SM, Al Hadi A, Alam MS. Facial Expression Database of Autism Spectrum Disorder Children.
+
 [2] MD. Shafiul Alam, "Facial Expression Recognition Dataset, "Kaggle, https://www.kaggle.com/datasets/shafi420/facial. Accessed: Nov. 5, 2024.
